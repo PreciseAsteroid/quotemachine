@@ -1,0 +1,53 @@
+.wrapper{
+  background-image: url('https://photos-2.dropbox.com/t/2/AAAdq9spZutC62rDGxp8m5ta9dKpg8LwhbtlDhEfMnYSFw/12/3685151/jpeg/32x32/3/1448758800/0/2/209H.jpg/ENva4wIYppIDIAIoAg/x_woCrqa3Ikii7gW-hdH3c5TvsvsWV20hrjxtjaKPxg?size_mode=3&size=1280x960') ;
+  /*background-image: url('../img/209H.jpg');*/
+  -webkit-background-size: cover !important;
+  -moz-background-size: cover !important;
+  -o-background-size: cover !important;
+  background-size: cover !important;
+  color: white;
+  height: 50%;
+  padding-bottom: 550px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Russo One','Open Sans','Helvetica Neue',Arial,sans-serif;
+}
+
+h1{
+  font-weight: 700;
+  font-size: 100px;
+}
+
+.title{
+  padding-top: 75px;
+  padding-bottom: 50px;
+}
+
+#qText{
+  background-color: transparent;
+  /*border-radius: 0;*/
+  color: white;
+  /*border: 2px solid white;*/
+
+  font-family: 'Russo One','Open Sans','Helvetica Neue',Arial,sans-serif;
+  /*font-weight: 50;*/
+  font-style: italic;
+  font-size: 30px;
+  /*resize:none;
+  display: inline;*/
+}
+
+#qButt{
+  margin-top: 30px;
+
+
+  background-color: transparent;
+  border-radius: 0;
+  color: white;
+  border: 5px solid white;
+
+  font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+  font-weight: 300;
+  font-size: 50px;
+}
