@@ -1,5 +1,5 @@
 .wrapper{
-  background-image: url('https://photos-2.dropbox.com/t/2/AAAdq9spZutC62rDGxp8m5ta9dKpg8LwhbtlDhEfMnYSFw/12/3685151/jpeg/32x32/3/1448758800/0/2/209H.jpg/ENva4wIYppIDIAIoAg/x_woCrqa3Ikii7gW-hdH3c5TvsvsWV20hrjxtjaKPxg?size_mode=3&size=1280x960') ;
+  background-image: url('https://photos-3.dropbox.com/t/2/AADNfBWZCprBTi-DodOVPrM-P8rWof6-av8Y6CIqkoqTpw/12/3685151/jpeg/32x32/1/_/1/2/209H.jpg/ENva4wIYppIDIAIoAg/x_woCrqa3Ikii7gW-hdH3c5TvsvsWV20hrjxtjaKPxg?size=1280x960&size_mode=3') ;
   /*background-image: url('../img/209H.jpg');*/
   -webkit-background-size: cover !important;
   -moz-background-size: cover !important;
@@ -7,7 +7,7 @@
   background-size: cover !important;
   color: white;
   height: 50%;
-  padding-bottom: 550px;
+  padding-bottom: 450px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -16,11 +16,11 @@ h1, h2, h3, h4, h5, h6 {
 
 h1{
   font-weight: 700;
-  font-size: 100px;
+  font-size: 70px;
 }
 
 .title{
-  padding-top: 75px;
+  padding-top: 15px;
   padding-bottom: 50px;
 }
 
@@ -49,5 +49,14 @@ h1{
 
   font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
   font-weight: 300;
-  font-size: 50px;
+  font-size: 40px;
+}
+
+.twitterButt{
+  padding-top: 40px;
+}
+
+.tw{
+  color: #00aced;
+  font-size: 30px;
 }
